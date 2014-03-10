@@ -1,0 +1,81 @@
+body {
+  background-color: transparent;
+	height:100%;
+}
+
+html {
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+	height:100%;
+}
+
+.greened{
+
+	
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.policy {
+	background-color:white;
+	/*overflow:scroll;*/
+	height:100%;
+}
+.navig {
+	color:white;
+	background-image: url('assets/img/texture_pattern_repeat_green_zoom_out1.jpg');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+	padding:20px;
+	border-radius: 20px;
+}
+.wash{
+	color:white;
+}
+.row {
+	height:100%;
+}
+
+.nav-pills  a {
+	color: white;
+	/*font-weight:bold;*/
+	font-family: "London Sans", Helvetica, Arial, sans-serif;
+}
+.nav-pills > li.active > a {
+background-color: transparent;
+font-weight:bold;
+
+}
+
+.nav-pills  > li > a:hover {
+background-color: white;
+color: #333333;
+}
+
+
+.nav-pills > li.active > a:hover {
+color: #333333;
+background-color: white;
+}
+
+
+ @font-face {
+	font-family: "Roboto";
+    src:    url('roboto/Roboto-Regular.ttf');
+ 
+}
+
+body {
+font-family: "Roboto", Helvetica, Arial, sans-serif;
+font-size: medium;
+}
+
+
+.col-md-4  img{ 
+   margin-left: auto;
+    margin-right: auto;
+}

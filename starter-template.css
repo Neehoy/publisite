@@ -1,0 +1,52 @@
+body {
+  background-color: transparent;
+	/*height:100%;*/
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	font-size: large;
+}
+
+html {
+	background-color: #7dc573;
+	background-image: url('assets/img/texture_pattern_repeat_green_zoom_out1.jpg');
+	background-repeat: repeat;
+	background-position: top left;
+	background-attachment: fixed;
+/*height:100%;*/
+}
+
+
+.container {
+
+ padding: 25px 15px;
+ /* text-align: center;*/
+ padding-bottom: 0px;
+}
+
+.policy {
+	background-color:white;
+}
+.wash{
+	color:white;
+}
+.footnav{
+	margin-top: 25px;
+	background-color:white;
+	color:white;
+	text-align: center;
+}
+.row {
+	margin-top:15px;
+}
+ a{
+ 	color:black; 	
+ }
+
+ 
+ 
+ @font-face {
+    /*font-family: "London Sans";
+    src:    url('london_font/LondonMM.ttf');*/
+        font-family: "Roboto";
+    src:    url('roboto/Roboto-Regular.ttf');
+ 
+}
